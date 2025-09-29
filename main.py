@@ -6,3 +6,5 @@ elif '0' <= ch <= '9':
     print("your char is number.")
 elif 'A' <= ch <= 'Z' or 'a' <= ch <= 'z':
     print("your char is letter.")
+else:
+    print("other!")
